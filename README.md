@@ -16,6 +16,7 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 |-----|-------|-------|
 | 01  | Intro to PySpark, cluster architecture, lazy evaluation, first DataFrame | [notes](day-01-intro-and-architecture/notes.md) |
 | 02  | Joins (inner/left/right/full) and handling nulls | [notes](day-02-joins-and-nulls/notes.md) |
+| 03  | Window functions — rank, dense_rank, row_number, running totals | [notes](day-03-window-functions/notes.md) |
 
 ## Setup (to run examples locally)
 
