@@ -18,6 +18,7 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 | 02  | Joins (inner/left/right/full) and handling nulls | [notes](day-02-joins-and-nulls/notes.md) |
 | 03  | Window functions — rank, dense_rank, row_number, running totals | [notes](day-03-window-functions/notes.md) |
 | 04  | Spark SQL — temp views and spark.sql() | [notes](day-04-spark-sql/notes.md) |
+| 05  | Parquet files — read/write, overwrite/append, partitioned writes | [notes](day-05-parquet-files/notes.md) |
 
 ## Setup (to run examples locally)
 
