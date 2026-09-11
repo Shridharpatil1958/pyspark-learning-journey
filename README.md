@@ -20,6 +20,7 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 | 04  | Spark SQL — temp views and spark.sql() | [notes](day-04-spark-sql/notes.md) |
 | 05  | Parquet files — read/write, overwrite/append, partitioned writes | [notes](day-05-parquet-files/notes.md) |
 | 06  | UDFs — wrapping custom Python logic for DataFrame columns | [notes](day-06-udfs/notes.md) |
+| 07  | Week 1 mini project — joins + nulls + UDF + window function + SQL + Parquet, all in one pipeline | [notes](day-07-mini-project/notes.md) |
 
 ## Setup (to run examples locally)
 
