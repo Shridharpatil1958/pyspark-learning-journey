@@ -22,6 +22,7 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 | 06  | UDFs — wrapping custom Python logic for DataFrame columns | [notes](day-06-udfs/notes.md) |
 | 07  | Week 1 mini project — joins + nulls + UDF + window function + SQL + Parquet, all in one pipeline | [notes](day-07-mini-project/notes.md) |
 | 08  | .explain() query plans and .cache() for reused DataFrames | [notes](day-08-explain-and-caching/notes.md) |
+| 09  | Broadcast joins — avoiding shuffles when joining with a small table | [notes](day-09-broadcast-joins/notes.md) |
 
 ## Setup (to run examples locally)
 
