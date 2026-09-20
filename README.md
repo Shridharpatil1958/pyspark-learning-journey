@@ -25,6 +25,8 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 | 09  | Broadcast joins — avoiding shuffles when joining with a small table | [notes](day-09-broadcast-joins/notes.md) |
 | 10  | The Spark UI — Jobs, Stages, SQL, and Storage tabs for debugging performance | [notes](day-10-spark-ui/notes.md) |
 | 11  | repartition() vs coalesce() — controlling partition count | [notes](day-11-repartition-vs-coalesce/notes.md) |
+| 12  | Handling skewed joins — salting and Adaptive Query Execution | [notes](day-12-skewed-joins-salting/notes.md) |
+| 13  | Reading/writing cloud storage — S3, ADLS, GCS paths and authentication | [notes](day-13-cloud-storage/notes.md) |
 
 ## Setup (to run examples locally)
 
