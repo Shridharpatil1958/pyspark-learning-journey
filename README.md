@@ -27,6 +27,8 @@ Daily notes and example code as I learn PySpark, from zero to job-ready for a da
 | 11  | repartition() vs coalesce() — controlling partition count | [notes](day-11-repartition-vs-coalesce/notes.md) |
 | 12  | Handling skewed joins — salting and Adaptive Query Execution | [notes](day-12-skewed-joins-salting/notes.md) |
 | 13  | Reading/writing cloud storage — S3, ADLS, GCS paths and authentication | [notes](day-13-cloud-storage/notes.md) |
+| 14  | Delta Lake basics — ACID transactions, time travel, update/delete/merge | [notes](day-14-delta-lake-basics/notes.md) |
+| 15  | Structured Streaming — readStream/writeStream, output modes | [notes](day-15-structured-streaming/notes.md) |
 
 ## Setup (to run examples locally)
 
